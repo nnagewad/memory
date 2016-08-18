@@ -1,13 +1,28 @@
 # Problem Statement
 
 ## Round 1
-Memories are frail and can easily be forgotten to the point of non-existence. How do we ensure that memory is preserved for loved-ones and future-generations to access them in times of need, comfort, or as a general reminder of lessons from our past that we shouldn't repeat in our present or our future?
+Memories are frail and can easily be forgotten to the point of non-existence. How do we ensure that memory is preserved for loved-ones and future-generations to access them in times of need, comfort, or as a general reminder of lessons from our past?
 
 ## Feedback
-*How might we ensure that future generations continue to practice memory as a tool for comfort, reminder, and storytelling?*
+*How might we ensure that future generations continue to practice memory as a tool for **comfort**, **reminder**, and **storytelling**?*
 - Ricardo (August 16)
 
 ## Research / Response
+### Quantitative Research
+[10 Unforgettable Statistics about Human Memory](https://southtree.com/memories-matter/statistics-about-human-memory)
+	1. Unless interested in a topic, most adults have an attention span of 20 minutes. Researchers estimate that the adult attention span has decreased by about 12 minutes in the past decade. It seems that our fast-paced lives and full reliance on technology has taken its toll.
+	2. Short-term memory can hold up to 7 pieces of information at the same time... *But only for around 20 seconds!*
+	3. Left-handed people have better memories. Due to the corpus callosum (the white matter in the brain) in lefties is larger than those on right-handed people.
+	4. Most memories adults have come from when we were between 15 and 25 years old. The *reminiscene bump* which is the tendency for older adults to remember events that occurred during their adolescent and early adult years, can account for 60% of all memories.
+	5. It is possible to erase bad memories.
+	6. Alcohold has a negative role in our memory and prevents the brain from transferring information into long-term memories.
+	7. Over course of a lifetime, scientists estimate that modern human brain will hold up to 1 quadrillion pieces of information.
+	8. 70,000 thoughts in a day (including while we are sleeping). Dreaming takes more brain activity than any waking function.
+	9. Visual memory/eye-witnesses is notoriously inaccurate. Of 235 wrongful convictions in the US, 75% were a result of unreliable eyewitness.
+	10. The brains's hippocampus plays a significant role in transforming short-term memories into long-term ones. It declines with time and by the age of 80, 20% of its nerve connection can be lost.
+
+
+### Qualitative Research
 Collecting artifacts of our present and conducting an act of preservation of that item for archiving:
 	- "**The Film Foundation** which is a US-based non-profit organization dedicated to film preservation and the exhibition of restored and classic cinema. It was founded by director Martin Scorsese and several other leading filmmakers in 1990. The foundation raises funds and awareness for film preservation projects and creates educational programs about film."
 		- [link](https://en.wikipedia.org/wiki/The_Film_Foundation)
@@ -87,7 +102,38 @@ The art of Curating memory
 ## Discussion with Ricardo
 - **Focus on storytelling**
 - **Focus on the source/memory being pure, no alterations.**
-- Ignore:
+
+- **IGNORE:**
 	- Distorted memory
 		- Passed down from one interpretation
 	- Curation of memory...
+
+- **GITHUB** is a great tool for memory. Shows the evolution of a project from its initial commit to the end of the project's life-cycle...
+	- Demonstrates the project's evolution, and shows the difference over a period of *commits*.
+
+
+focus on the act of remembering...
+
+Millenials have trouble remembering autobiographical memories
+
+Patience to remember stories has gone down...
+
+How might we help millenials remember stories they care about...
+- Stories, focus on familial stories...
+- Easy to tell stories
+- Repetition.
+
+That you then can tell your stories...
+
+Remembering is a by-product of memory!!!
+
+Emotional journey to go through the empathy mapping...
+
+# Possible Questions
+- Can you recall a time when a loved one has shared a personal moment with you about their upbringing?
+
+- Do you see the value of familial stories being passed down from generation to generation?
+
+- Do you believe their are parallels in our past with our present, that could ultimately define our future?
+
+- 
