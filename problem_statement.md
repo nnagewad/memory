@@ -7,6 +7,10 @@ Memories are frail and can easily be forgotten to the point of non-existence. Ho
 *How might we ensure that future generations continue to practice memory as a tool for **comfort**, **reminder**, and **storytelling**?*
 - Ricardo (August 16)
 
+## Round 2
+How do we help millenials remember familial stories that are important to them?
+- Autobiographical memories of our loved ones.
+
 ## Research / Response
 ### Quantitative Research
 [10 Unforgettable Statistics about Human Memory](https://southtree.com/memories-matter/statistics-about-human-memory)
@@ -134,6 +138,6 @@ Emotional journey to go through the empathy mapping...
 
 - Do you see the value of familial stories being passed down from generation to generation?
 
-- Do you believe their are parallels in our past with our present, that could ultimately define our future?
+- Have any stories told to you share parallels to your present?
 
 - 
