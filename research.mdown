@@ -99,5 +99,5 @@ Definition of **FlashBulb Memory**:
 	- [link](http://bigthink.com/artful-choice/the-psychology-of-remembering-a-memory-like-a-journal)
 
 
-"[Remembering] is an imaginative reconstruction or construction, built out of the relation of our attitude towards a whole active mass of organised past reactions or experience, and to a little outstanding detail which commonly appears in image or in language form. It is thus hardly ever really exact, even in the most rudimentary cases of rote recapitulation, and it is not at all important that b should be so."
+- "[Remembering] is an imaginative reconstruction or construction, built out of the relation of our attitude towards a whole active mass of organised past reactions or experience, and to a little outstanding detail which commonly appears in image or in language form. It is thus hardly ever really exact, even in the most rudimentary cases of rote recapitulation, and it is not at all important that b should be so."
 	- [link](http://www.bartlett.psychol.cam.ac.uk/TheoryOfRemembering.htm)
