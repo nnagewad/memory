@@ -1,5 +1,5 @@
 # Problem Statement
-How do we help millenials remember familial stories that are important to them?
+How might we help millennials remember familial stories they care about?
 - Autobiographical memories of our loved ones.
 
 
@@ -14,11 +14,11 @@ How do we help millenials remember familial stories that are important to them?
 
 - focus on the act of remembering...
 
-- Millenials have trouble remembering autobiographical memories / not interested
+- Millennials have trouble remembering autobiographical memories / not interested
 
 - Patience to remember stories has gone down...
 
-- How might we help millenials remember stories they care about...
+- How might we help millennials remember stories they care about...
 	- Stories, focus on familial stories...
 	- Easy to tell stories
 	- Repetition.

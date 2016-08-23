@@ -1,4 +1,4 @@
-# Empathy Mapping
+# How Might We Possible Solutions
 
 ## Think & Feel
 ### Storyteller
@@ -87,6 +87,14 @@
 	- animation
 	- abstract
 	- augmented reality
+
+
+## Scent
+### Storyteller
+- It can help with recollection of a moment
+
+### Millenial Audience
+- Only triggered when it's being described...
 
 ## Pain
 ### Storyteller
