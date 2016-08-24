@@ -1,5 +1,5 @@
-## Research
-### Quantitative Research
+# Research
+## Quantitative Research
 [10 Unforgettable Statistics about Human Memory](https://southtree.com/memories-matter/statistics-about-human-memory)
 
 1. Unless interested in a topic, most adults have an attention span of 20 minutes. Researchers estimate that the adult attention span has decreased by about 12 minutes in the past decade. It seems that our fast-paced lives and full reliance on technology has taken its toll.
@@ -23,7 +23,7 @@
 10. The brains's hippocampus plays a significant role in transforming short-term memories into long-term ones. It declines with time and by the age of 80, 20% of its nerve connection can be lost.
 
 
-### Qualitative Research
+## Qualitative Research
 Collecting artifacts of our present and conducting an act of preservation of that item for archiving:
 
 - "**The Film Foundation** which is a US-based non-profit organization dedicated to film preservation and the exhibition of restored and classic cinema. It was founded by director Martin Scorsese and several other leading filmmakers in 1990. The foundation raises funds and awareness for film preservation projects and creates educational programs about film."
@@ -89,7 +89,7 @@ Definition of **FlashBulb Memory**:
 	- [link](https://www.theguardian.com/lifeandstyle/2012/jan/14/psychology-neuroscience)
 
 
-### Research on Remembering
+## Research on Remembering
 
 - "[M]emories are idiosyncratic, they change, and the way we stored them to begin with will affect the way we will remember them later on."
 	- [link](http://bigthink.com/artful-choice/the-psychology-of-remembering-a-memory-like-a-journal)
