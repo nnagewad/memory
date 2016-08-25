@@ -29,6 +29,8 @@
 
 - Do you find value when you listen/experience a story when there is something tangible to accompany it? It can be music / photos / even a tangible item itself.
 
+- Does having the actual artifact in your hands help validify the story being told? Would you feel cheated if only a replica was available?
+
 ## 3. Dream Question
 - What is your feeling towards to social media? Do you see it as a way for you to record your memories?
 
