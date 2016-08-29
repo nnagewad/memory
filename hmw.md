@@ -118,3 +118,34 @@
 ### Millennial Audience
 
 - Insight to a memory / recollection that can be passed in future.
+
+
+
+# Possible Solution
+## Travelling Exhibition
+- Video accompaniment
+	- Be it animation
+	- Abstract
+	- VR
+
+- Integration with the internet
+
+- Booth in style of speaker's corner
+
+- High-profile guests talking sharing their familal history
+	- Inspired by Steve Martin recent visit and talk about the iconic paintings by Lawren S. Harris
+	- [link](https://www.ago.net/steve-martin)
+
+- The touring exhibition will be placed within already established museums:
+	- Royal Ontario Museum (Toronto, Canada)
+	- Canadian Museum for Human Rights (Manitoba, Canada)
+	- Canadian Museum of History (Ottawa, Canada)
+	- Smithsonian (Washington DC, USA)
+	- Victoria and Albert Museum (London, UK)
+	- World Museum (Liverpook, UK)
+	- The MET (New York City, USA)
+	- Guggenheium Abu Dhabi (Abu Dhabi, UAE)
+
+- Each city/market has a different theme, different stories.
+	- Although, there will be a consistent theme that travels along with the exhibtion.
+	- Be interesting to see a connection between themes/stories...
