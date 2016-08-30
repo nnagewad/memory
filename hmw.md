@@ -142,9 +142,11 @@
 	- Canadian Museum of History (Ottawa, Canada)
 	- Smithsonian (Washington DC, USA)
 	- Victoria and Albert Museum (London, UK)
-	- World Museum (Liverpook, UK)
-	- The MET (New York City, USA)
+	- World Museum (Liverpool, UK)
+	- Cooper Hewitt (New York City, USA)
 	- Guggenheium Abu Dhabi (Abu Dhabi, UAE)
+	- Montréal Science Centre (Montréal, Canada)
+	- Natural History Museum (Los Angeles, USA)
 
 - Each city/market has a different theme, different stories.
 	- Although, there will be a consistent theme that travels along with the exhibtion.

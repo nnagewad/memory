@@ -19,9 +19,10 @@
 	- Tasks
 	- Modifications
 
-- Branches
+- Branching
 
-- Visual interpretation of history...
+- Visual interpretation of history via the GitHub Desktop App
+![GitHub Desktop: See Your History](/images/github_see-your-history.png?raw=true)
 
 ### [Wired Magazine's Meta Story on GitHub](http://www.wired.com/2012/02/github-revisited/)
 - Collaboration
@@ -102,3 +103,18 @@
 	- etc.
 
 - After the video was complete, it was edited for television as a 30 minute television series.
+
+
+## Body Worlds
+### [link](http://www.bodyworlds.com/)
+- Mission of the Exhibitions
+	The primary goal of *Body Worlds* is health education.
+
+- There are multiple series of Body Worlds
+	- Body World & The Story of the Heart
+	- Body Worlds: Pulse
+	- Body Worlds & The Cycle of Life
+	- Body Worlds: The Happiness Project
+	- Body Worlds Vital
+	- Body Worlds RX
+	- Animal Inside Out
