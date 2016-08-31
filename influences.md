@@ -81,6 +81,14 @@
 
 - Great way to organize different stories
 	- Taxonomy
+	- There are stories with common themes
+
+- Twitter Bio:
+	- Our mission is to preserve and share humanity’s stories in order to build connections between people and create a more just and compassionate world.
+
+- There is also a bus tour happening across America:
+	- [link](https://storycorps.org/blog/storycorps-ten-years-on-the-road/)
+![StoryCorp Tour](/images/storycorp-tour.jpg?raw=true)
 
 
 ## Creative Commons
@@ -110,7 +118,7 @@
 - Mission of the Exhibitions
 	The primary goal of *Body Worlds* is health education.
 
-- There are multiple series of Body Worlds
+- There are multiple series of Body Worlds, each with their own specifications:
 	- Body World & The Story of the Heart
 	- Body Worlds: Pulse
 	- Body Worlds & The Cycle of Life
@@ -118,3 +126,28 @@
 	- Body Worlds Vital
 	- Body Worlds RX
 	- Animal Inside Out
+
+- Like any exhibit there are pre-planned routes; however, it's up to the exhibit goer to decide how long they wish to stay at a particular piece...
+
+
+## Designing Bond
+### [James Bond 007 Exhibition](http://www.007.com/designing-007-to-open-in-paris/)
+- Even after its premiere in 2012, the exhibition is still going on.
+
+- With the release of the latest Bond film, *Spectre* (2015), some of the props from the movie were added to the exhibition.
+
+- Travelled from:
+	- London
+	- Toronto
+	- Shanghai
+	- Melbourne
+	- Moscow
+	- Rotterdam
+	- Madrid
+	- Mexico City
+	- Paris
+
+- The exhibition has areas designated with specific themes:
+	- Weapons
+	- Villain Costumes
+	- Exotic Locations
