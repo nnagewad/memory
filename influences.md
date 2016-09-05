@@ -1,4 +1,4 @@
-# Outside Influences
+# Transformation Phase - Outside Influences
 ## Radiohead - Videotape
 ### [link](https://www.youtube.com/watch?v=-kCKob1YKOU)
 - The inception of this project was established solely on the lyrics of this song:
@@ -88,6 +88,7 @@
 
 - There is also a bus tour happening across America:
 	- [link](https://storycorps.org/blog/storycorps-ten-years-on-the-road/)
+
 ![StoryCorp Tour](/images/storycorp-tour.jpg?raw=true)
 
 
@@ -151,3 +152,4 @@
 	- Weapons
 	- Villain Costumes
 	- Exotic Locations
+		- Set Decoration
