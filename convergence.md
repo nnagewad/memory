@@ -7,16 +7,34 @@
 	- List includes:
 		- ROM (Toronto)
 		- Victoria & Albert Museum (London)
+	- Ideal if locations are accessible for all (able and non-able body individuals)
+
+- [**Transmedia storytelling**](https://en.wikipedia.org/wiki/Transmedia_storytelling) throughout the exhibition
 
 - Use of the latest and greatest technology that isn't accessible to everyday users
 	- Possible sponsorship with a technological firm that is playing around with Augmented reality and has a great collection of data on our everyday lives/likes/dislikes/interests/family/interactions/check-ins.
 		- Facebook is an ideal technology partners
 
 - Be interesting to start the exhibit from the top (the surface plane, of us) then we travel down to next portions of the exhibit where we are "digging" deeper to our roots.
+	- Follow to the Gift Shop
 	- Inspired by The Mercedes Benz Museum in Stuttgart, Germany.
 
-- Associate the use of personal devices for exhibition goers to input their own data and experience. Also beam data to them at certain aspects of the exhibition.
-	- Exhibition uses of Augmented Reality inspired by Pokémon Go.
+- Associate the use of personal devices for exhibition goers to input their own data and experience. Also beam data to them at certain aspects of the exhibition, [**Location Awareness**](https://en.wikipedia.org/wiki/Location_awareness).
+	- Exhibition uses of Augmented Reality/Trans-reality inspired by Pokémon Go.
+	- Fluidity of the physical and virtual space.
+
+- Use of audio hardware that connects, via wireless, to personal device. Emit audio playback/feedback throughout the exhibit.
+
+- Share data on which of your Facebook friends have seen the exhibit and/or contributed to it.
+
+- Touch screen throughout the exhibition, where we can leave (digital) traces...
+	- Inspired by cave paintings
+		- Each contribution by individual/group is a branch.
+
+- Capture archival artifacts...
+
+- **Goal:** How can we encourage visitors to continue exploring their familial history and why it's important for our stories need to continue being shared over the course of time and space.
+
 
 ## Partnerships
 ### Facebook
