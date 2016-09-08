@@ -3,8 +3,20 @@
 - How might we help millennials remember familial stories they care about?
 
 ## Convergence Idea:
-- Create an exhibition with the use of the latest and greatest technology
-	- Possible sponsorship with a technological firm that is playing around with Augmented reality.
+- Create a traveling exhibition that lasts for length of 4 months in a city at venues that are designed to host traveling exhibitions.
+	- List includes:
+		- ROM (Toronto)
+		- Victoria & Albert Museum (London)
+
+- Use of the latest and greatest technology that isn't accessible to everyday users
+	- Possible sponsorship with a technological firm that is playing around with Augmented reality and has a great collection of data on our everyday lives/likes/dislikes/interests/family/interactions/check-ins.
+		- Facebook is an ideal technology partners
+
+- Be interesting to start the exhibit from the top (the surface plane, of us) then we travel down to next portions of the exhibit where we are "digging" deeper to our roots.
+	- Inspired by The Mercedes Benz Museum in Stuttgart, Germany.
+
+- Associate the use of personal devices for exhibition goers to input their own data and experience. Also beam data to them at certain aspects of the exhibition.
+	- Exhibition uses of Augmented Reality inspired by Pokémon Go.
 
 ## Partnerships
 ### Facebook
@@ -24,7 +36,7 @@
 
 ### [National Institute for Genealogical Studies](http://www.genealogicalstudies.com/)
 
-### StoryCorps
+### [StoryCorps](https://storycorps.org/)
 
 ### ~~[Family History Library](https://en.wikipedia.org/wiki/Family_History_Library)~~
 - Associated with the church of LDS.
